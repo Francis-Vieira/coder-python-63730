@@ -8,3 +8,9 @@ git config --global user.name F*********
 
 https://code.visualstudio.com/docs/sourcecontrol/overview
 
+Também é possível realizar ações diretamente no Terminal, comandos:
+
+git add
+git commit -m '******'
+git push
+
