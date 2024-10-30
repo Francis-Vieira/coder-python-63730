@@ -1,0 +1,10 @@
+Instalar o git no Visual Studio pela extensão GitHub CodeSpace
+
+Ir na conta do VS Code no canto inferior esquerdo da tela com o git
+
+Ir no prompt e do Git Bash e digitar:
+git config --global user.email r*********@*****.****
+git config --global user.name F*********
+
+https://code.visualstudio.com/docs/sourcecontrol/overview
+
